@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1614593876 source:i:\4th semister\data structure lab\codes\prefix\main.cpp
+	<bits/stdc++.h>
+	"headers/stack.h"
+	"headers/queue.h"
+
+1614407948 i:\4th semister\data structure lab\codes\prefix\headers\stack.h
+	<iostream>
+
+1614048658 i:\4th semister\data structure lab\codes\prefix\headers\queue.h
+	<iostream>
+
